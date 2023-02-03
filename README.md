@@ -1,0 +1,1 @@
+## A finance logger written in typescript
